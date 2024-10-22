@@ -11,7 +11,7 @@ public class Main
     public static void main(String args[])
     {
 
-        int n = 0;
+        int n = 2;
 
         if (n > 1)
             System.out.println("Weird");
